@@ -1,4 +1,4 @@
-# Deep Learning with TensorFlow
+# Deep Learning with TensorFlow and Keras
 ****************
 
 ***Techniques, tools, best practices and everything you need to learn/build effective Deep Learning Systems with TensorFlow for Computer Vision and Natural Language Processing!***
