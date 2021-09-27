@@ -16,11 +16,11 @@ All notebooks were created with the readers in mind. Every notebook starts with 
 
 The easiest way to view all the notebooks is to use Nbviewer. 
 
-* <a href="https://nbviewer.jupyter.org/github/Nyandwi/deep_learning_tensorflow"><img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg" alt="Render nbviewer" /></a>
+* <a href="https://nbviewer.jupyter.org/github/Nyandwi/deep_learning_with_tensorflow"><img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg" alt="Render nbviewer" /></a>
 
 If you want to play with the codes, you can use the following platforms: 
 
-* <a href="https://colab.research.google.com/github/Nyandwi/deep_learning_tensorflow" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+* <a href="https://colab.research.google.com/github/Nyandwi/deep_learning_with_tensorflow" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 * <a href="https://deepnote.com/project/deep_learning_tensorflow"><img src="https://deepnote.com/buttons/launch-in-deepnote-small.svg" alt="Launch in Deepnote" /></a>
 
