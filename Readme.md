@@ -97,7 +97,7 @@ TensorFlow has gained a lot of popularity in the machine learning community due 
     * Using TextVectorization Layer
 * [Using Word Embeddings to Represent Texts](https://github.com/Nyandwi/deep_learning_with_tensorflow/blob/master/3_nlp_with_tensorflow/2_using_word_embeddings_to_represent_texts.ipynb)
 
-    * Intro Word Embeddings
+    * Intro to Word Embeddings
     * Embedding In Practice
     * Using Pretrained Embeddings
 * [Recurrent Neural Networks (RNNs)](https://github.com/Nyandwi/deep_learning_with_tensorflow/blob/master/3_nlp_with_tensorflow/3_recurrent_neural_networks.ipynb)
