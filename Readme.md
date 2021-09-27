@@ -127,7 +127,7 @@ Many of the datasets used for this repository are from the following sources:
 * [TensorFlow datasets](https://www.tensorflow.org/datasets/catalog/overview)
 
 
-*******
+********
 
 This repository was created by Jean de Dieu Nyandwi. You can find him on: 
 * [Twitter](https://twitter.com/jeande_d)
