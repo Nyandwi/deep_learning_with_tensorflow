@@ -3,7 +3,7 @@
 
 ***Techniques, tools, best practices and everything you need to learn/build effective Deep Learning Systems with TensorFlow for Computer Vision and Natural Language Processing!***
 
-![toolss](https://github.com/Nyandwi/machine_learning_complete/blob/main/images/git_cover.png)
+![toolss](https://github.com/Nyandwi/deep_learning_with_tensorflow/blob/master/images/tf_cover_image.png)
 
 
 This is a comprehensive repository containing end to end notebooks for basic neural network tasks, computer vision and Natural Language Processing(NLP). 
